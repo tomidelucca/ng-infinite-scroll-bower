@@ -1,4 +1,4 @@
-/* ng-infinite-scroll - v1.3.0 - 2016-10-07 */
+/* ng-infinite-scroll - v1.3.0 - 2016-10-10 */
 (function (global, factory) {
   if (typeof define === "function" && define.amd) {
     define(['module', 'exports', 'angular'], factory);
