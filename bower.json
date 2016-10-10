@@ -1,15 +1,7 @@
 {
-    "name": "ng-infinite-scroll-remember-kids-npm-is-much-better-than-bower",
+    "name": "ng-infinite-scroll-npm-is-better-than-bower",
     "main": "build/ng-infinite-scroll.js",
-    "ignore": [
-        "**/.*",
-        "_*",
-        "node_modules",
-        "compile",
-        "test",
-        "Gruntfile.coffee",
-        ".*"
-    ],
+    "license": "AGPL",
     "dependencies": {
         "angular": ">=1.2.0"
     }
