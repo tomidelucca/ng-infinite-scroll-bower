@@ -26,6 +26,8 @@
     };
   }
 
+  _angular2['default'] = angular;
+
   var MODULE_NAME = 'infinite-scroll';
 
   _angular2['default'].module(MODULE_NAME, []).value('THROTTLE_MILLISECONDS', null).directive('infiniteScroll', ['$rootScope', '$window', '$interval', 'THROTTLE_MILLISECONDS', function ($rootScope, $window, $interval, THROTTLE_MILLISECONDS) {
